@@ -1,7 +1,6 @@
 # My First Project uploaded to GitHub
 comp120_assignment3
-
-# Version
+# Version 
 COMP120_versioncontrol 
 
 # Link to Project
